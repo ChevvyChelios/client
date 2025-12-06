@@ -113,6 +113,3 @@ The application comes pre-loaded with sample student data to demonstrate functio
 - Safari (latest)
 - Edge (latest)
 
-## License
-
-This project is open source and available under the MIT License.
