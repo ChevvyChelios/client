@@ -34,10 +34,7 @@ A modern React application for managing student records with full CRUD operation
 - npm or yarn package manager
 
 ### Installation
-
-1. Clone or download the project files
-2. Navigate to the project directory
-3. Install dependencies:
+Install dependencies:
 
 ```bash
 npm install
